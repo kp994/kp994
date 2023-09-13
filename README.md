@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shahkriti96@gmail.com**
 
-- ⚡ Fun fact **The first programming language was called FORTRAN**
+- ⚡ Fun fact **Van Rossum named programming lanugae python so because of the script "Monty Python's Flying Circus"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
