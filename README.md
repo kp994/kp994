@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kp994" target="blank"><img src="https://img.shields.io/twitter/follow/kp994?logo=twitter&style=for-the-badge" alt="kp994" /></a> </p>
 
-- 🔭 I’m currently working on **app development**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Blockchain technology**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **explore cloud based services**
 
-- 📫 How to reach me **shahkriti96@gmail.com**
+- 📫 How to reach me **kritipriyasah@gmail.com**
 
 - ⚡ Fun fact **Van Rossum named programming lanugae python so because of the script "Monty Python's Flying Circus"**
 
