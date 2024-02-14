@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-X3K-Lbh7K6B5ZfXM9tOBWzpsRToGgrKlnZjSL05jFYv3W5882HgSan09Nq1LLFijLl56szvxaU0L9D9QdHAaDLz7e_68YGC-3JOgMTLYyH7gO4ypcfZPY_riE9gZ7qzOIi1rNPERfU-InLpzdOaXFuzY3Ij59Rww5RMb_8FkP6VpRNVH07lYu23/s1920/mh.gif)
 <h1 align="center">Hi 👋, I'm kriti shah</h1>
 
-<h3 align="center">An enthusiatic learner on ML , Blockchain and web development</h3>
+<h3 align="center">An enthusiatic learner on ML/AI , data science and web development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kp994&label=Profile%20views&color=0e75b6&style=flat" alt="kp994" /> </p>
 
